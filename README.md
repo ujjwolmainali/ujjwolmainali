@@ -134,7 +134,7 @@ ujjwol_mainali:
 
 <!--═══════════════════ WAKATIME STATS ═══════════════════-->
 
-**I'm an Evening 🌃 Coder**
+**I'm an Night 🌃 Coder**
 
 ```text
 🌞 Morning                310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 %
