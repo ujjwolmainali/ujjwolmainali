@@ -277,7 +277,6 @@ Last Updated on 13-03-2026 00:00:00 UTC
 <!--═══════════════════ CONTRIBUTION SNAKE ═══════════════════-->
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujjwolmainali/ujjwolmainali/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujjwolmainali/ujjwolmainali/output/github-snake.svg">
