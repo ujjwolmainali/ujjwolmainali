@@ -99,7 +99,6 @@ ujjwol_mainali:
   experience: 3+ years
   
   currently_working_on:
-    - NyapuShell (Bash-based shell tool)
     - git-chalak (Git productivity CLI)
     - Portfolio revamp with Next.js 14
     
